@@ -29,7 +29,7 @@
 
 
 #define SERVER_PORT "4433"
-#define SERVER_NAME "192.168.2.195"
+#define SERVER_NAME "192.168.11.11" // 接続先のSSLサーバーを起動するPCのIPアドレスに修正してください
 
 #define GET_REQUEST "GET / HTTP/1.0\r\n\r\n"
 
